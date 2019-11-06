@@ -2,10 +2,7 @@
 
 Абзац 1
 
-![](Images/ris1.jpg)
-![](Images/ris1.jpg)
-![](Images/ris1.jpg)
-![](Images/ris1.jpg)
+![](.gitbook/assets/ris1%20%281%29.jpg) ![](.gitbook/assets/ris1%20%282%29.jpg) ![](.gitbook/assets/ris1%20%283%29.jpg) ![](.gitbook/assets/ris1%20%284%29.jpg)
 
 Абзац 2
 
