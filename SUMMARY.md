@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Общее описание курса](README.md)
-
 ## Введение
 
 * [Вводная часть. Термины и понятия](vvedenie/vvodnaya-chast.-terminy-i-ponyatiya.md)
