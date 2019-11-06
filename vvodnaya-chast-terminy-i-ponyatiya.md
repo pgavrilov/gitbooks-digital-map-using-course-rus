@@ -1,6 +1,11 @@
 # Вводная часть. Термины и понятия
-text text text
 
-![test](ris1.jpg)
+Абзац 1
 
+![](ris1.jpg)
+![](ris1.jpg)
+![](ris1.jpg)
+![](ris1.jpg)
+
+Абзац 2
 
