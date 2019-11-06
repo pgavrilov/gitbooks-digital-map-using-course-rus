@@ -1,16 +1,4 @@
 ﻿{
-
-   "pluginsConfig": {
-       "theme-default": {
-           "showLevel": true
-        }
-    },
-
-    "simple-page-toc": {
-        "maxDepth": 3,
-        "skipFirstH1": true
-    },
-
     "pdf": {
         "pageNumbers": false,
         "fontSize": 14,
