@@ -1,0 +1,1 @@
+call gitbook epub ../ "digital-map-using-course-rus.epub"

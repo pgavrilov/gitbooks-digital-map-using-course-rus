@@ -1,0 +1,27 @@
+﻿{
+
+   "pluginsConfig": {
+       "theme-default": {
+           "showLevel": true
+        }
+    },
+
+    "simple-page-toc": {
+        "maxDepth": 3,
+        "skipFirstH1": true
+    },
+
+    "pdf": {
+        "pageNumbers": false,
+        "fontSize": 14,
+        "paperSize": "a4",
+        "margin": {
+            "right": 0,
+            "left": 0,
+            "top": 0,
+            "bottom": 0
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
+}
