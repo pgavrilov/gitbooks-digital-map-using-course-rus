@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Введение](vvedenie.md)
 
 ## Введение <a id="vvedenie-1"></a>
 
