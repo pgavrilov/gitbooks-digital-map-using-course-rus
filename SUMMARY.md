@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 
-## Введение <a id="vvedenie-1"></a>
+## Введение
 
-* [Вводная часть. Термины и понятия](vvedenie-1/vvodnaya-chast.-terminy-i-ponyatiya.md)
+* [Вводная часть. Термины и понятия](vvedenie/vvodnaya-chast.-terminy-i-ponyatiya.md)
 
 ## Лекция. Теория. Устройство карты OpenStreetMap \(OSM\)
 
