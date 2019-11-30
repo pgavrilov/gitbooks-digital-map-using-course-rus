@@ -4,15 +4,15 @@
 
 ## Введение
 
-* [Термины и понятия \(тезисно\)](vvedenie/terminy-i-ponyatiya-tezisno.md)
+* [Термины и понятия \(тезисно\)](terminy-i-ponyatiya-tezisno.md)
 
 ## Устройство карты OpenStreetMap \(OSM\)
 
-* [Какие бывают карты](kakie-byvayut-karty.md)
-* [Картостили](kartostili.md)
-* [Карта OSM как база объектов](karta-osm-kak-baza-obektov.md)
-* [Цифровые карты и рельеф](cifrovye-karty-i-relef.md)
-* [Растровые онлайн-карты в формате TMS](rastrovye-onlain-karty-v-formate-tms.md)
+* [Какие бывают карты](ustroistvo-karty-openstreetmap-osm/kakie-byvayut-karty.md)
+* [Картостили](ustroistvo-karty-openstreetmap-osm/kartostili.md)
+* [Карта OSM как база объектов](ustroistvo-karty-openstreetmap-osm/karta-osm-kak-baza-obektov.md)
+* [Цифровые карты и рельеф](ustroistvo-karty-openstreetmap-osm/cifrovye-karty-i-relef.md)
+* [Растровые онлайн-карты в формате TMS](ustroistvo-karty-openstreetmap-osm/rastrovye-onlain-karty-v-formate-tms.md)
 
 ## Заучивание топознаков
 
