@@ -1,6 +1,6 @@
 # Table of contents
 
-* [О данной лекции](README.md)
+* [Курс по работе с цифровыми картами](README.md)
 * [Введение. Термины и понятия \(тезисно\)](vvedenie-terminy-i-ponyatiya-tezisno.md)
 
 ## Устройство карты OpenStreetMap \(OSM\) <a id="02-ustroistvo-karty-openstreetmap-osm"></a>
