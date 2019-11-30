@@ -1,9 +1,6 @@
 # Table of contents
 
 * [О данной лекции](README.md)
-
-## Введение <a id="01-vvedenie"></a>
-
 * [Введение. Термины и понятия \(тезисно\)](vvedenie-terminy-i-ponyatiya-tezisno.md)
 
 ## Устройство карты OpenStreetMap \(OSM\) <a id="02-ustroistvo-karty-openstreetmap-osm"></a>
