@@ -10,7 +10,7 @@
 * [Картостили](02-ustroistvo-karty-openstreetmap-osm/kartostili.md)
 * [Карта OSM как база объектов](02-ustroistvo-karty-openstreetmap-osm/karta-osm-kak-baza-obektov.md)
 * [Цифровые карты и рельеф](02-ustroistvo-karty-openstreetmap-osm/cifrovye-karty-i-relef.md)
-* [Растровые онлайн-карты в формате TMS](02-ustroistvo-karty-openstreetmap-osm/rastrovye-onlain-karty-v-formate-tms.md)
+* [Oнлайн-карты в формате TMS](02-ustroistvo-karty-openstreetmap-osm/onlain-karty-v-formate-tms.md)
 
 ## Заучивание топознаков <a id="03-zauchivanie-topoznakov"></a>
 
