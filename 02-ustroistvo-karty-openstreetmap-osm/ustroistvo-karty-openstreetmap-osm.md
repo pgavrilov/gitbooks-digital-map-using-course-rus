@@ -1,14 +1,11 @@
 # Устройство карты OpenStreetMap \(OSM\)
 
-{% page-ref page="sravnenie-karty-osm-s-drugimi.md" %}
+* [Сравнение карты OSM с другими](02-ustroistvo-karty-openstreetmap-osm/sravnenie-karty-osm-s-drugimi.md)
 
-{% page-ref page="kartostili.md" %}
+* [Картостили](02-ustroistvo-karty-openstreetmap-osm/kartostili.md)
 
-{% page-ref page="karta-osm-kak-baza-obektov.md" %}
+* [Карта OSM как база объектов](02-ustroistvo-karty-openstreetmap-osm/karta-osm-kak-baza-obektov.md)
 
-{% page-ref page="cifrovye-karty-i-relef.md" %}
+* [Цифровые карты и рельеф](02-ustroistvo-karty-openstreetmap-osm/cifrovye-karty-i-relef.md)
 
-{% page-ref page="onlain-karty-v-formate-tms.md" %}
-
-
-
+* [Oнлайн-карты в формате TMS](02-ustroistvo-karty-openstreetmap-osm/onlain-karty-v-formate-tms.md)
