@@ -5,4 +5,4 @@
 3. [Карта OSM как база объектов](karta-osm-kak-baza-obektov.md)
 4. [Цифровые карты и рельеф](cifrovye-karty-i-relef.md)
 5. [Oнлайн-карты в формате TMS](onlain-karty-v-formate-tms.md)
-
+6. [Points of interest \(POI\)](points-of-interest-poi.md)
