@@ -6,7 +6,7 @@
 ## Устройство карты OpenStreetMap \(OSM\) <a id="02-ustroistvo-karty-openstreetmap-osm"></a>
 
 * [Устройство карты OpenStreetMap \(OSM\)](02-ustroistvo-karty-openstreetmap-osm/ustroistvo-karty-openstreetmap-osm.md)
-* [Какие бывают карты](02-ustroistvo-karty-openstreetmap-osm/kakie-byvayut-karty.md)
+* [Сравнение карты OSM с другими](02-ustroistvo-karty-openstreetmap-osm/sravnenie-karty-osm-s-drugimi.md)
 * [Картостили](02-ustroistvo-karty-openstreetmap-osm/kartostili.md)
 * [Карта OSM как база объектов](02-ustroistvo-karty-openstreetmap-osm/karta-osm-kak-baza-obektov.md)
 * [Цифровые карты и рельеф](02-ustroistvo-karty-openstreetmap-osm/cifrovye-karty-i-relef.md)
